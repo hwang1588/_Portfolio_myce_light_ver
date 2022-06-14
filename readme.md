@@ -17,4 +17,4 @@
 <img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_myce_light_ver/pc1.png">
 
 ### - MOBILE
-NA
+N/A
