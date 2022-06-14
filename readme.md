@@ -1,4 +1,4 @@
-# Website_Myce(dark ver.)
+# Website_Myce(light ver.)
 
 ## Stack
 
@@ -17,4 +17,4 @@
 <img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_myce_light_ver/pc1.png">
 
 ### - MOBILE
-<img src="https://github.com/hwang1588/repo_img_src/blob/main/_korfin_myce_light_ver/mobile1.png">
+NA
